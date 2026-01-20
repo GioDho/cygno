@@ -157,7 +157,7 @@ def get_bor_odb(mfile): # function to acquire the begin of run ODB entries from 
     try:
         odb = mfile.get_bor_odb_dump()
     except:
-        myError("No begin-of-run ODB dump found")
+        raise myError("No begin-of-run ODB dump found")
     
     mfile.jump_to_start()
     return odb
