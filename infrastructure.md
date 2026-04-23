@@ -17,6 +17,7 @@ Moreover, computing resources are available at LNF and LNGS (Cygno VM login and 
   * signup in the CYGNO Cloud IAM https://iam-cygno.cloud.cnaf.infn.it/ as **user** ([see INFN Cloud Guide](https://guides.cloud.infn.it/docs/users-guides/en/latest/users_guides/getting_started/getting_started.html)) specifing in the *Notes* field to be part of **cygno-user** group
 * if you do not have username in INFN or you get an error (like below) about username plese contact Giovanni Mazzitelli
 <img src="https://github.com/CYGNUS-RD/cygno/blob/main/img/username_error.png" alt="error" style="width:400px;"/>
+
 * if you alredy have a **username** INFN please signup in the CYGNO Cloud IAM https://iam-cygno.cloud.cnaf.infn.it/ as **user** ([see INFN Cloud Guide](https://guides.cloud.infn.it/docs/users-guides/en/latest/users_guides/getting_started/getting_started.html)) specifing in the *Notes* field to be part of **cygno-user** group
 <!---
   * for foreign users to be reggistred on AAI you need a CODICE FISCALE (CF) that you can generate with the tool https://quifinanza.it/strumenti/codice-fiscale 
